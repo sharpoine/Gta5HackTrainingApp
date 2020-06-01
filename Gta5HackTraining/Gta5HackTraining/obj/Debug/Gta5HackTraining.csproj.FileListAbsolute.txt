@@ -1,0 +1,14 @@
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\bin\Debug\Gta5HackTraining.exe.config
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\bin\Debug\Gta5HackTraining.exe
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\bin\Debug\Gta5HackTraining.pdb
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.Properties.Resources.resources
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.exe
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.pdb
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.Form1.resources
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\bin\Debug\Gta5HackTraining.exe.manifest
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\bin\Debug\Gta5HackTraining.application
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.exe.manifest
+C:\Users\Eren\source\repos\Gta5HackTraining\Gta5HackTraining\obj\Debug\Gta5HackTraining.application
